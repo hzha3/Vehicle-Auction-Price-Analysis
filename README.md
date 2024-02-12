@@ -1,3 +1,4 @@
 # Vehicle-Auction-Price-Analysis
-According to McKinsey’s report, the used-car market is more than twice size of the new car market in US. So, in order to better serve customers in used-car market, we want to investigate what features that a customer value most.
-So using the car auction price dataset, I try to figure out what kind of used-cars that customers are willing to pay for a lot of money, i.e., what is the common characteristic of used-cars sold in low, medium, and high price.
+According to McKinsey’s report, the used car market is more than twice the size of the new car market in the US. So, in order to better serve customers in the used car market, I want to investigate what features a customer values most.
+
+So using the car auction price dataset, I try to figure out what kind of used cars customers are willing to pay for a lot of money, i.e., what is the common characteristic of used cars sold at low, medium, and high prices.
